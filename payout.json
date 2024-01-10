@@ -1,0 +1,508 @@
+{
+  "totalPayouts": 2825.459504132238,
+  "totalCommission": 313.9399449035819,
+  "totalTax": 659.2738842975228,
+  "totalCirclePayouts": {
+    "BR/FR Indigenous Rights Circle": 475.84999999999997,
+    "Africa Just Energy Transition Circle": 104.16666666666667,
+    "Global HERO Circle": 1167.8,
+    "UK Climate Justice Circle": 972.8900000000002,
+    "EU Viable World for All Circle": 706.4666666666667,
+    "LATAM Feminist Climate Justice Circle": 267.5,
+    "MENA Sustainable Finance Circle": 42,
+    "NL Sustainable Fashion Circle": 62
+  },
+  "mobilizerCirclePayouts": {
+    "Samela Sateré-Mawé": {
+      "BR/FR Indigenous Rights Circle": 58.98966942148762,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Audrey Paranque": {
+      "BR/FR Indigenous Rights Circle": 58.98966942148762,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Tukumã Pataxó": {
+      "BR/FR Indigenous Rights Circle": 58.98966942148762,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Laetitia Jeanpierre": {
+      "BR/FR Indigenous Rights Circle": 58.98966942148762,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Leo Landon": {
+      "BR/FR Indigenous Rights Circle": 58.98966942148762,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Kelly Dochy": {
+      "BR/FR Indigenous Rights Circle": 58.98966942148762,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Koaile Monaheng": {
+      "Africa Just Energy Transition Circle": 25.826446280991735,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Cherop Soy": {
+      "Africa Just Energy Transition Circle": 25.826446280991735,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Abigael Kima": {
+      "Africa Just Energy Transition Circle": 25.826446280991735,
+      "Global HERO Circle": 21.71528925619833
+    },
+    "Liba Ravindran": {
+      "Global HERO Circle": 21.71528925619833,
+      "UK Climate Justice Circle": 144.72743801652885
+    },
+    "Dominique Palmer": {
+      "Global HERO Circle": 21.71528925619833,
+      "UK Climate Justice Circle": 144.72743801652885
+    },
+    "Francesca Willow": {
+      "Global HERO Circle": 21.71528925619833,
+      "UK Climate Justice Circle": 144.72743801652885
+    },
+    "Fi Quekett": {
+      "Global HERO Circle": 21.71528925619833,
+      "UK Climate Justice Circle": 144.72743801652885
+    },
+    "Karin Watson": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Catalina Santelices Brunel": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Emiliana Rickenmann": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Gabriela Franco Prieto": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Sofia Aguayo": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Andrea Paola": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Sofia Luna": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Ariana Krochik": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Melissa Cáceres": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Keval Bharadia": {
+      "Global HERO Circle": 21.71528925619833,
+      "UK Climate Justice Circle": 144.72743801652885
+    },
+    "Adélaïde Charlier": {
+      "Global HERO Circle": 21.71528925619833,
+      "EU Viable World for All Circle": 131.3677685950412
+    },
+    "Lucie Morauw": {
+      "Global HERO Circle": 21.71528925619833,
+      "EU Viable World for All Circle": 131.3677685950412
+    },
+    "Chloé Mikolajczak": {
+      "Global HERO Circle": 21.71528925619833,
+      "EU Viable World for All Circle": 131.3677685950412
+    },
+    "Laurie Pazienza": {
+      "Global HERO Circle": 21.71528925619833,
+      "EU Viable World for All Circle": 131.3677685950412
+    },
+    "Mohamed Walid Jomni": {
+      "Global HERO Circle": 21.71528925619833,
+      "MENA Sustainable Finance Circle": 4.462809917355372
+    },
+    "Ahmed Elhadj Taieb ": {
+      "Global HERO Circle": 21.71528925619833,
+      "MENA Sustainable Finance Circle": 4.462809917355372
+    },
+    "Rawe Kefi": {
+      "Global HERO Circle": 21.71528925619833,
+      "MENA Sustainable Finance Circle": 4.462809917355372
+    },
+    "Mohamed Ali Raddaoui": {
+      "Global HERO Circle": 21.71528925619833,
+      "MENA Sustainable Finance Circle": 4.462809917355372
+    },
+    "Wafa Hamdi": {
+      "Global HERO Circle": 21.71528925619833,
+      "MENA Sustainable Finance Circle": 4.462809917355372
+    },
+    "Zoubeir BenHadj YAHYA": {
+      "Global HERO Circle": 21.71528925619833,
+      "MENA Sustainable Finance Circle": 4.462809917355372
+    },
+    "Amal Ridene": {
+      "Global HERO Circle": 21.71528925619833,
+      "MENA Sustainable Finance Circle": 4.462809917355372
+    },
+    "Pamela EA": {
+      "Global HERO Circle": 21.71528925619833,
+      "LATAM Feminist Climate Justice Circle": 19.89669421487604
+    },
+    "Kiki  Boreel": {
+      "Global HERO Circle": 21.71528925619833,
+      "NL Sustainable Fashion Circle": 9.223140495867767
+    },
+    "Rachel Castillo": {
+      "Global HERO Circle": 21.71528925619833,
+      "NL Sustainable Fashion Circle": 9.223140495867767
+    },
+    "Claudia Angeli": {
+      "Global HERO Circle": 21.71528925619833,
+      "NL Sustainable Fashion Circle": 9.223140495867767
+    },
+    "Sara Dubbeldam": {
+      "Global HERO Circle": 21.71528925619833,
+      "NL Sustainable Fashion Circle": 9.223140495867767
+    },
+    "Rashi Favier": {
+      "Global HERO Circle": 21.71528925619833,
+      "NL Sustainable Fashion Circle": 9.223140495867767
+    }
+  },
+  "breakdown": [
+    {
+      "_id": "63a5c890879b5e1aaf10db0b",
+      "firstName": "Samela",
+      "lastName": "Sateré-Mawé",
+      "email": "samela@hero.com",
+      "amount": 80.70495867768605,
+      "circleName": "BR/FR Indigenous Rights Circle"
+    },
+    {
+      "_id": "63a4a0583d4a58916cd06498",
+      "firstName": "Audrey",
+      "lastName": "Paranque",
+      "email": "audrey@hero.com",
+      "amount": 80.70495867768605,
+      "circleName": "BR/FR Indigenous Rights Circle"
+    },
+    {
+      "_id": "63a5c9cc879b5e1aaf10db0c",
+      "firstName": "Tukumã",
+      "lastName": "Pataxó",
+      "email": "takuma@hero.com",
+      "amount": 80.70495867768605,
+      "circleName": "BR/FR Indigenous Rights Circle"
+    },
+    {
+      "_id": "63a5c601879b5e1aaf10db06",
+      "firstName": "Laetitia",
+      "lastName": "Jeanpierre",
+      "email": "laetitia@hero.com",
+      "amount": 80.70495867768605,
+      "circleName": "BR/FR Indigenous Rights Circle"
+    },
+    {
+      "_id": "63a5c78f879b5e1aaf10db0a",
+      "firstName": "Leo",
+      "lastName": "Landon",
+      "email": "leo@hero.com",
+      "amount": 80.70495867768605,
+      "circleName": "BR/FR Indigenous Rights Circle"
+    },
+    {
+      "_id": "643ab67454d52d48d5cc59b4",
+      "firstName": "Kelly",
+      "lastName": "Dochy",
+      "email": "dochy.kelly@gmail.com",
+      "amount": 80.70495867768605,
+      "circleName": "BR/FR Indigenous Rights Circle"
+    },
+    {
+      "_id": "655e734d45c8aa8dfdd516dc",
+      "firstName": "Koaile",
+      "lastName": "Monaheng",
+      "email": "kwakwamona@gmail.com",
+      "amount": 47.54173553719008,
+      "circleName": "Africa Just Energy Transition Circle"
+    },
+    {
+      "_id": "655e72eb71e4b3db859bbee1",
+      "firstName": "Cherop",
+      "lastName": "Soy",
+      "email": "cheropsoy@gmail.com",
+      "amount": 47.54173553719008,
+      "circleName": "Africa Just Energy Transition Circle"
+    },
+    {
+      "_id": "655e72b245c8aa8dfdd51573",
+      "firstName": "Abigael",
+      "lastName": "Kima",
+      "email": "abigaelkima@gmail.com",
+      "amount": 47.54173553719008,
+      "circleName": "Africa Just Energy Transition Circle"
+    },
+    {
+      "_id": "634c458a74d71763c597f79f",
+      "firstName": "Liba",
+      "lastName": "Ravindran",
+      "email": "liba1291@gmail.com",
+      "amount": 166.44272727272752,
+      "circleName": "UK Climate Justice Circle"
+    },
+    {
+      "_id": "634c459b74d71763c597f7a3",
+      "firstName": "Dominique",
+      "lastName": "Palmer",
+      "email": "domipalmer99@gmail.com",
+      "amount": 166.44272727272752,
+      "circleName": "UK Climate Justice Circle"
+    },
+    {
+      "_id": "634c45bc74d71763c597f7ab",
+      "firstName": "Francesca",
+      "lastName": "Willow",
+      "email": "ethicalunicorn@gmail.com",
+      "amount": 166.44272727272752,
+      "circleName": "UK Climate Justice Circle"
+    },
+    {
+      "_id": "634c45d174d71763c597f7af",
+      "firstName": "Fi",
+      "lastName": "Quekett",
+      "email": "fiona.quekett@gmail.com",
+      "amount": 166.44272727272752,
+      "circleName": "UK Climate Justice Circle"
+    },
+    {
+      "_id": "635d0f744fe2b4b43352c953",
+      "firstName": "Karin",
+      "lastName": "Watson",
+      "email": "holakarinwatson@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d0fcc4fe2b4b43352c956",
+      "firstName": "Catalina",
+      "lastName": "Santelices Brunel",
+      "email": "catalinasantelicesb@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d0ff64fe2b4b43352c959",
+      "firstName": "Emiliana",
+      "lastName": "Rickenmann",
+      "email": "rickenmanne@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d102e4fe2b4b43352c95f",
+      "firstName": "Gabriela",
+      "lastName": "Franco Prieto",
+      "email": "gabrielafranco2@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d106a4fe2b4b43352c962",
+      "firstName": "Sofia",
+      "lastName": "Aguayo",
+      "email": "heysfvrgs@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d10924fe2b4b43352c965",
+      "firstName": "Andrea",
+      "lastName": "Paola",
+      "email": "andreapaolahernandezg@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d10b34fe2b4b43352c968",
+      "firstName": "Sofia",
+      "lastName": "Luna",
+      "email": "sofia@reearthin.org",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d10e04fe2b4b43352c96f",
+      "firstName": "Ariana",
+      "lastName": "Krochik",
+      "email": "arikrochik98@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "635d10f94fe2b4b43352c972",
+      "firstName": "Melissa",
+      "lastName": "Cáceres",
+      "email": "melissa3caceres@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "639da81f5684f30d4daf99fb",
+      "firstName": "Keval",
+      "lastName": "Bharadia",
+      "email": "kev.bha@gmail.com",
+      "amount": 166.44272727272752,
+      "circleName": "UK Climate Justice Circle"
+    },
+    {
+      "_id": "63a375205684f30d4daf9a0d",
+      "firstName": "Adélaïde",
+      "lastName": "Charlier",
+      "email": "adelaide.charlier@mail.be",
+      "amount": 153.08305785124,
+      "circleName": "EU Viable World for All Circle"
+    },
+    {
+      "_id": "63a375ad5684f30d4daf9a0e",
+      "firstName": "Lucie",
+      "lastName": "Morauw",
+      "email": "morauwlucie@gmail.com",
+      "amount": 153.08305785124,
+      "circleName": "EU Viable World for All Circle"
+    },
+    {
+      "_id": "63a376a05684f30d4daf9a0f",
+      "firstName": "Chloé",
+      "lastName": "Mikolajczak",
+      "email": "chloe.miko@gmail.com",
+      "amount": 153.08305785124,
+      "circleName": "EU Viable World for All Circle"
+    },
+    {
+      "_id": "63a3770c5684f30d4daf9a10",
+      "firstName": "Laurie",
+      "lastName": "Pazienza",
+      "email": "lauriepazienza@hotmail.com",
+      "amount": 153.08305785124,
+      "circleName": "EU Viable World for All Circle"
+    },
+    {
+      "_id": "642ce054be08174adde21727",
+      "firstName": "Mohamed Walid",
+      "lastName": "Jomni",
+      "email": "jomniwalid@gmail.com",
+      "amount": 26.178099173553704,
+      "circleName": "MENA Sustainable Finance Circle"
+    },
+    {
+      "_id": "642ceaa7be08174adde21957",
+      "firstName": "Ahmed",
+      "lastName": "Elhadj Taieb ",
+      "email": "ahmedbelhadj305@gmail.com",
+      "amount": 26.178099173553704,
+      "circleName": "MENA Sustainable Finance Circle"
+    },
+    {
+      "_id": "642ceb2bbe08174adde21961",
+      "firstName": "Rawe",
+      "lastName": "Kefi",
+      "email": "rawekefi5@gmail.com",
+      "amount": 26.178099173553704,
+      "circleName": "MENA Sustainable Finance Circle"
+    },
+    {
+      "_id": "642ceb6fbe08174adde2196b",
+      "firstName": "Mohamed Ali",
+      "lastName": "Raddaoui",
+      "email": "raddaouimohamedali@gmail.com",
+      "amount": 26.178099173553704,
+      "circleName": "MENA Sustainable Finance Circle"
+    },
+    {
+      "_id": "642cebf9be08174adde21975",
+      "firstName": "Wafa",
+      "lastName": "Hamdi",
+      "email": "wafa.hmadi@outlook.com",
+      "amount": 26.178099173553704,
+      "circleName": "MENA Sustainable Finance Circle"
+    },
+    {
+      "_id": "642cec55be08174adde2197f",
+      "firstName": "Zoubeir",
+      "lastName": "BenHadj YAHYA",
+      "email": "zoubayahia@gmail.com",
+      "amount": 26.178099173553704,
+      "circleName": "MENA Sustainable Finance Circle"
+    },
+    {
+      "_id": "642cedb9be08174adde21a35",
+      "firstName": "Amal",
+      "lastName": "Ridene",
+      "email": "aridene@scout.org",
+      "amount": 26.178099173553704,
+      "circleName": "MENA Sustainable Finance Circle"
+    },
+    {
+      "_id": "6480c3aba5b1a531330b9899",
+      "firstName": "Pamela",
+      "lastName": "EA",
+      "email": "pamelaelizarraras@gmail.com",
+      "amount": 41.61198347107434,
+      "circleName": "LATAM Feminist Climate Justice Circle"
+    },
+    {
+      "_id": "64c1021761517d98e304c46e",
+      "firstName": "Kiki ",
+      "lastName": "Boreel",
+      "email": "kiki.boreel@gmail.com",
+      "amount": 30.938429752066078,
+      "circleName": "NL Sustainable Fashion Circle"
+    },
+    {
+      "_id": "64c1024f61517d98e304c4c7",
+      "firstName": "Rachel",
+      "lastName": "Castillo",
+      "email": "rachel@gmail.com",
+      "amount": 30.938429752066078,
+      "circleName": "NL Sustainable Fashion Circle"
+    },
+    {
+      "_id": "64c102c161517d98e304c503",
+      "firstName": "Claudia",
+      "lastName": "Angeli",
+      "email": "claudia.angeli1818@gmail.com",
+      "amount": 30.938429752066078,
+      "circleName": "NL Sustainable Fashion Circle"
+    },
+    {
+      "_id": "64c102eb61517d98e304c552",
+      "firstName": "Sara",
+      "lastName": "Dubbeldam",
+      "email": "sara@whensarasmiles.nl",
+      "amount": 30.938429752066078,
+      "circleName": "NL Sustainable Fashion Circle"
+    },
+    {
+      "_id": "64c1034661517d98e304c5a9",
+      "firstName": "Rashi",
+      "lastName": "Favier",
+      "email": "rashifavier@gmail.com",
+      "amount": 30.938429752066078,
+      "circleName": "NL Sustainable Fashion Circle"
+    }
+  ],
+  "mobilizersPerCircle": {
+    "BR/FR Indigenous Rights Circle": 6,
+    "Africa Just Energy Transition Circle": 3,
+    "UK Climate Justice Circle": 5,
+    "LATAM Feminist Climate Justice Circle": 10,
+    "EU Viable World for All Circle": 4,
+    "MENA Sustainable Finance Circle": 7,
+    "NL Sustainable Fashion Circle": 5
+  }
+}
